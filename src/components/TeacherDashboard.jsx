@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import socket from "../api/socket";
 import Badge from "./Badge";
 import Button from "./Button";
-import polygon from "../assets/polygon.png";
+import polygon from "../assets/Polygon.png";
 import PollResults from "./PollResults";
 import PollHistory from "./PollHistory";
 import eye from "../assets/Eye.png";
