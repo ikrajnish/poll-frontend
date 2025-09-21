@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sora: "Sora", sans-serif;
+}
+
+body {
+  @apply font-sora;
+}
